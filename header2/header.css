@@ -1,0 +1,25 @@
+header {
+    width: 80rem;
+    margin: auto;
+    height: 5rem;
+    border-bottom: 1px solid gray;
+
+    display: flex;
+    align-items: center;
+    padding: 0 0.5rem;
+    
+}
+header .box_img {
+    width: 3rem;
+    height: 3rem;
+
+
+}
+header .box_img {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    display: flex;
+
+
+}
