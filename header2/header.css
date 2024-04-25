@@ -1,5 +1,5 @@
 header {
-    width: 80rem;
+    width: 70rem;
     margin: auto;
     height: 5rem;
     border-bottom: 1px solid gray;
@@ -7,6 +7,7 @@ header {
     display: flex;
     align-items: center;
     padding: 0 0.5rem;
+    justify-content: space-between;
     
 }
 header .box_img {
@@ -22,4 +23,17 @@ header .box_img {
     display: flex;
 
 
+}
+
+header h1{
+    width: 120%;
+    height: 30%;
+    font-size: 1.5rem;
+    background-color: blueviolet;
+
+
+    padding: 15px 0.5px;
+    display: flex;
+    justify-content: space-between;
+    
 }
